@@ -13,6 +13,9 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    //Book+RVAdapter
+
     List<Book> lstBook;
 
     @Override
